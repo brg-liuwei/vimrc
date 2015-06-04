@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/wliu/Code/fly/conf/ngx_conf'
+let g:netrw_dirhist_2='/Users/wliu/Code/cheatApi/src/tools'
+let g:netrw_dirhist_3='/Users/wliu/Code/tmp/go-init-test/src/mytest'
+let g:netrw_dirhist_4='/Users/wliu/Code/cheatApi/src/dbhandler'
+let g:netrw_dirhist_5='/Users/wliu/Desktop/admaster/ip.csv'
+let g:netrw_dirhist_6='/Users/wliu/Code/go/src/godnf'
+let g:netrw_dirhist_7='/Users/wliu/Code/fly_redirect/conf'

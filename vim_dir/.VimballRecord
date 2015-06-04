@@ -1,0 +1,3 @@
+winmanager.vba: call delete('/home/phongchen/.vim/doc/winmanager.txt')|call delete('/home/phongchen/.vim/plugin/start.gnome')|call delete('/home/phongchen/.vim/plugin/start.kde')|call delete('/home/phongchen/.vim/plugin/winfileexplorer.vim')|call delete('/home/phongchen/.vim/plugin/winmanager.vim')|call delete('/home/phongchen/.vim/plugin/wintagexplorer.vim')
+tagbar.vba: call delete('/data/stanyu/.vim/plugin/tagbar.vim')|call delete('/data/stanyu/.vim/syntax/tagbar.vim')|call delete('/data/stanyu/.vim/doc/tagbar.txt')
+supertab.vba: call delete('/data/stanyu/.vim/doc/supertab.txt')|call delete('/data/stanyu/.vim/plugin/supertab.vim')
